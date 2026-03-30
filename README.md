@@ -38,7 +38,7 @@ This repository uses Taurus `multi-party-sig` as the protocol-oriented base and 
 The point is not "Taurus natively supports Solana end to end."  
 The point is to prove that a clean curve adapter boundary enables reuse of shared MPC math and workflow logic.
 
-## What Is Demonstrated Today
+## What Is Demonstrated
 
 Current scope is a 2-of-3 Ed25519 threshold-signing experiment:
 
